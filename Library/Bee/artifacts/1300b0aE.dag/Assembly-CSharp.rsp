@@ -125,6 +125,7 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Newtonsoft.Json.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -385,6 +386,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Config.cs"
+"Assets/Constants.cs"
 "Assets/Scripts/Auth/AuthEvents.cs"
 "Assets/Scripts/Register/RegisterEvents.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
@@ -422,6 +424,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 "Assets/WebAPI/API.cs"
+"Assets/WebAPI/DTO/ApiResponse.cs"
 "Assets/WebAPI/DTO/User.cs"
 "Assets/WebAPI/UserService.cs"
 -langversion:9.0

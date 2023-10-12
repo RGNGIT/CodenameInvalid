@@ -1,16 +1,16 @@
 using System;
 using System.Diagnostics;
 
-public abstract class User
+public class User
 {
-    private abstract class Data 
+    public class Data 
     {
-        int UserKey;
-        string Email;
-        string Verify;
+        public int UserKey;
+        public string Email;
+        public string Verify;
     }
 
-    Data UserData;
-    string Token;
-    DateTime TTL;
+    public Data UserData;
+    public string Token;
+    public DateTime TTL;
 }
