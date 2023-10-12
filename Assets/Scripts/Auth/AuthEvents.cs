@@ -1,5 +1,7 @@
+#nullable enable
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AuthEvents : MonoBehaviour
 {
@@ -12,11 +14,32 @@ public class AuthEvents : MonoBehaviour
         info.text = string.Empty;
     }
 
-    public void Login() 
+    public async void Login() 
     {
         if(!string.IsNullOrEmpty(login.text) && !string.IsNullOrEmpty(password.text)) 
         {
-            
+            API api = new();
+            ApiResponse<User?>? response = await api
+            .UserServiceInstanse()
+            .Login(login.text, password.text);
+
+            if (response != null)
+            {
+                if (response.Data != null && Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.OK)
+                {
+                    Debug.Log($"Login successful (Token: \"{response.Data.Token}\")");
+                    SceneManager.LoadScene(2);
+                }
+                else if (Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.Error)
+                {
+                    Debug.Log($"Login failed");
+                    info.text = "Ошибка логина";
+                }
+            }
+            else
+            {
+                info.text = "Ошибка сервера. Response is NULL";
+            }
         }
         else
         {

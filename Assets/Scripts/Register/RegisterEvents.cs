@@ -29,22 +29,41 @@ public class RegisterEvents : MonoBehaviour
         .UserServiceInstanse()
         .Register(Name.text, Surname.text, Patronymic.text, Email.text, Password.text, Gender.text, int.Parse(Age.text));
 
-        if (response != null) 
+        bool checkInputs() 
         {
-            if (response.Data != null && Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.OK)
+            return
+                !string.IsNullOrEmpty(Name.text) &&
+                !string.IsNullOrEmpty(Surname.text) &&
+                !string.IsNullOrEmpty(Patronymic.text) &&
+                !string.IsNullOrEmpty(Email.text) &&
+                !string.IsNullOrEmpty(Password.text) &&
+                !string.IsNullOrEmpty(Gender.text) &&
+                !string.IsNullOrEmpty(Age.text);
+        }
+
+        if(checkInputs())
+        {
+            if (response != null)
             {
-                Debug.Log($"Register successful (Token: \"{response.Data.Token}\")");
-                SceneManager.LoadScene(2);
+                if (response.Data != null && Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.OK)
+                {
+                    Debug.Log($"Register successful (Token: \"{response.Data.Token}\")");
+                    SceneManager.LoadScene(2);
+                }
+                else if (Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.Error)
+                {
+                    Debug.Log($"Register failed");
+                    info.text = "Ошибка регистрации";
+                }
             }
-            else if (Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.Error)
+            else
             {
-                Debug.Log($"Register failed");
-                info.text = "Ошибка регистрации";
+                info.text = "Ошибка сервера. Response is NULL";
             }
         }
         else 
         {
-            info.text = "Ошибка сервера. Response is NULL";
+            info.text = "Не заполнены одно или несколько полей";
         }
     }
 }
