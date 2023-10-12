@@ -2,10 +2,10 @@
 
 public static class Constants
 {
-    public static Dictionary<string, int> stringResponseStatus = new () 
+    public static Dictionary<string, EApiResponseStatus> stringResponseStatus = new () 
     {
-        { "OK", 1 },
-        { "ERROR", 2 }
+        { "OK", EApiResponseStatus.OK },
+        { "ERROR", EApiResponseStatus.Error }
     };
 
     public enum EApiResponseStatus 

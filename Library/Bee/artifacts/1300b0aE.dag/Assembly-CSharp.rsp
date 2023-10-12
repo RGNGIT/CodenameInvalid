@@ -387,7 +387,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Config.cs"
 "Assets/Constants.cs"
+"Assets/Runtime.cs"
 "Assets/Scripts/Auth/AuthEvents.cs"
+"Assets/Scripts/Main/MainEvents.cs"
 "Assets/Scripts/Register/RegisterEvents.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
@@ -426,7 +428,7 @@
 "Assets/WebAPI/API.cs"
 "Assets/WebAPI/DTO/ApiResponse.cs"
 "Assets/WebAPI/DTO/User.cs"
-"Assets/WebAPI/UserService.cs"
+"Assets/WebAPI/Services/UserService.cs"
 -langversion:9.0
 
 /deterministic

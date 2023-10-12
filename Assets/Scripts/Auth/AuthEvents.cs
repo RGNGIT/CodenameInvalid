@@ -25,12 +25,13 @@ public class AuthEvents : MonoBehaviour
 
             if (response != null)
             {
-                if (response.Data != null && Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.OK)
+                if (response.Data != null && Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.OK)
                 {
                     Debug.Log($"Login successful (Token: \"{response.Data.Token}\")");
+                    Runtime.SetCurrentUser(response.Data);
                     SceneManager.LoadScene(2);
                 }
-                else if (Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.Error)
+                else if (Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.Error)
                 {
                     Debug.Log($"Login failed");
                     info.text = "Ошибка логина";

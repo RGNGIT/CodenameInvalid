@@ -45,12 +45,13 @@ public class RegisterEvents : MonoBehaviour
         {
             if (response != null)
             {
-                if (response.Data != null && Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.OK)
+                if (response.Data != null && Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.OK)
                 {
                     Debug.Log($"Register successful (Token: \"{response.Data.Token}\")");
-                    SceneManager.LoadScene(2);
+                    Runtime.SetCurrentUser(response.Data);
+                    SceneManager.LoadScene(4);
                 }
-                else if (Constants.stringResponseStatus[response.Status] == (int)Constants.EApiResponseStatus.Error)
+                else if (Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.Error)
                 {
                     Debug.Log($"Register failed");
                     info.text = "Ошибка регистрации";
