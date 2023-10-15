@@ -49,7 +49,7 @@ public class RegisterEvents : MonoBehaviour
                 {
                     Debug.Log($"Register successful (Token: \"{response.Data.Token}\")");
                     Runtime.SetCurrentUser(response.Data);
-                    SceneManager.LoadScene(4);
+                    SceneManager.LoadScene((int)Constants.EScene.IntroTest);
                 }
                 else if (Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.Error)
                 {

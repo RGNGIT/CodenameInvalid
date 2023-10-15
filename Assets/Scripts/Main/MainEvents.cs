@@ -7,6 +7,6 @@ public class MainEvents : MonoBehaviour
 {
     private void Awake()
     {
-        SceneManager.LoadScene(3, LoadSceneMode.Additive);
+        SceneManager.LoadScene((int)Constants.EAdditiveScene.Controls, LoadSceneMode.Additive);
     }
 }

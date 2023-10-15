@@ -14,6 +14,11 @@ public class AuthEvents : MonoBehaviour
         info.text = string.Empty;
     }
 
+    public void ToRegisterPage() 
+    {
+        SceneManager.LoadScene((int)Constants.EScene.Register);
+    }
+
     public async void Login() 
     {
         if(!string.IsNullOrEmpty(login.text) && !string.IsNullOrEmpty(password.text)) 
@@ -29,7 +34,7 @@ public class AuthEvents : MonoBehaviour
                 {
                     Debug.Log($"Login successful (Token: \"{response.Data.Token}\")");
                     Runtime.SetCurrentUser(response.Data);
-                    SceneManager.LoadScene(2);
+                    SceneManager.LoadScene((int)Constants.EScene.Main);
                 }
                 else if (Constants.stringResponseStatus[response.Status] == Constants.EApiResponseStatus.Error)
                 {
