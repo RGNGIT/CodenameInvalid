@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class Common : MonoBehaviour
+public class Common_BackgroundColor : MonoBehaviour
 {
     private void Awake()
     {
