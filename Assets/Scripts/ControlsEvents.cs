@@ -12,29 +12,29 @@ public class ControlsEvents : MonoBehaviour
 
     public TMP_Text Header;
 
-    GameObject isMainFound;
-    GameObject isSettingsFound;
+    bool isMainFound;
+    bool isSettingsFound;
 
     private void Awake()
     {
-        isMainFound = GameObject.Find("IsMain");
-        isSettingsFound = GameObject.Find("IsSettings");
+        isMainFound = GameObject.Find("IsMain") != null;
+        isSettingsFound = GameObject.Find("IsSettings") != null;
     }
 
     private void Update()
     {
-        if (isMainFound != null)
+        if (isMainFound)
         {
             Texts[0].color = Runtime.currentTheme.Icon_Highlight;
             Icons[0].color = Runtime.currentTheme.Icon_Highlight;
-            Header.text = "Главная";
+            Header.text = "ГѓГ«Г ГўГ­Г Гї";
         }
 
-        if (isSettingsFound != null)
+        if (isSettingsFound)
         {
             Texts[1].color = Runtime.currentTheme.Icon_Highlight;
             Icons[1].color = Runtime.currentTheme.Icon_Highlight;
-            Header.text = "Настройки";
+            Header.text = "ГЌГ Г±ГІГ°Г®Г©ГЄГЁ";
         }
     }
 
