@@ -12,13 +12,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Register.unity
     guid: 252f53aa8bd2694448565ed5a8c6350c
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/DockPages/Main.unity
     guid: 1c49740d00e9730458d1122edcf06dd3
   - enabled: 1
-    path: Assets/Scenes/AdditiveControls.unity
+    path: Assets/Scenes/AdditiveScenes/AdditiveControls.unity
     guid: 789f2dd4ab1fc8246aac2da7b03f3946
   - enabled: 1
     path: Assets/Scenes/IntroTest.unity
     guid: 85ef72168bf54c64082a90f3a4701f90
+  - enabled: 1
+    path: Assets/Scenes/DockPages/Settings.unity
+    guid: b9e698dc61462d249987f3e3fc90bc94
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

@@ -35,7 +35,8 @@ public static class Constants
         Auth = 0,
         Register = 1,
         Main = 2,
-        IntroTest = 4
+        IntroTest = 4,
+        Settings = 5
     }
 }
 
