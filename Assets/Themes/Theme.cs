@@ -20,7 +20,8 @@ public class Theme
         Color TextColor_1,
         Color TextColor_2,
         Color IntroTest_TileColor,
-        Color Icon_Highlight
+        Color Icon_Highlight,
+        Color Main_BlockBase
         )
     {
         this.Name = Name;
@@ -31,6 +32,7 @@ public class Theme
         this.TextColor_2 = TextColor_2;
         this.IntroTest_TileColor = IntroTest_TileColor;
         this.Icon_Highlight = Icon_Highlight;
+        this.Main_BlockBase = Main_BlockBase;
     }
     /// <summary>
     /// Цвет задника
@@ -60,4 +62,8 @@ public class Theme
     /// Цвет хайлайта иконки
     /// </summary>
     public Color Icon_Highlight { get; }
+    /// <summary>
+    /// Цвет базы для блока главного меню
+    /// </summary>
+    public Color Main_BlockBase { get; }
 }

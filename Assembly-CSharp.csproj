@@ -81,6 +81,7 @@
     <Compile Include="Assets\WebAPI\API.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\Scripts\Styles\Main_BlockBase.cs" />
     <Compile Include="Assets\Scripts\Register\RegisterEvents.cs" />
     <Compile Include="Assets\Scripts\Styles\TextColor_2.cs" />
     <Compile Include="Assets\Scripts\Styles\TextColor_0.cs" />
