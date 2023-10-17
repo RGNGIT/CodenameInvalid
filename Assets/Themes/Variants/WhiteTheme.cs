@@ -13,7 +13,7 @@ public class WhiteTheme : IThemeInitializer
             new Color32(128, 128, 128, 0xFF), // Цвет на иконках
             Color.blue, // Цвет тайлов из входного теста
             Color.blue, // Цвет хайлайта иконки
-            Color.blue // Цвет базы блока главного меню
+            new Color32(0, 0, 128, 0x0F) // Цвет базы блока главного меню
             );
     }
 }

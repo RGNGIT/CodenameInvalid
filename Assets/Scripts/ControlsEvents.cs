@@ -27,14 +27,14 @@ public class ControlsEvents : MonoBehaviour
         {
             Texts[0].color = Runtime.currentTheme.Icon_Highlight;
             Icons[0].color = Runtime.currentTheme.Icon_Highlight;
-            Header.text = "Ãëàâíàÿ";
+            Header.text = "Главная";
         }
 
         if (isSettingsFound)
         {
             Texts[1].color = Runtime.currentTheme.Icon_Highlight;
             Icons[1].color = Runtime.currentTheme.Icon_Highlight;
-            Header.text = "Íàñòðîéêè";
+            Header.text = "Настройки";
         }
     }
 

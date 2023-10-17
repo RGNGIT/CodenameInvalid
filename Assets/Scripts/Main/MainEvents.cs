@@ -16,15 +16,21 @@ public class MainEvents : MonoBehaviour
         PlaceBlocks();
     }
 
-    public void PlaceBlock() 
+    float y = -(1256f - 965f);
+    public void PlaceBlock(string header) 
     {
         GameObject block = Instantiate(Block);
+        block.GetComponentInChildren<Main_BlockBase>().Header.text = header;
         block.transform.parent = Content.transform;
-        block.transform.localPosition = new Vector2(0, -(1256f - 965f));
+        block.transform.localPosition = new Vector2(0, y);
     }
 
     void PlaceBlocks()
     {
-        PlaceBlock();
+        for(int i = 0; i < 4; i++) 
+        {
+            PlaceBlock("Block гавна " + i);
+            y -= 635f;
+        }
     }
 }
