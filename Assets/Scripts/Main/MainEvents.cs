@@ -29,7 +29,7 @@ public class MainEvents : MonoBehaviour
     {
         for(int i = 0; i < 4; i++) 
         {
-            PlaceBlock("Block гавна " + i);
+            PlaceBlock("Block " + i);
             y -= 635f;
         }
     }

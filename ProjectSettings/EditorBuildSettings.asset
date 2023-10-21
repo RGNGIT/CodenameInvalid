@@ -23,5 +23,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DockPages/Settings.unity
     guid: b9e698dc61462d249987f3e3fc90bc94
+  - enabled: 1
+    path: Assets/Scenes/DockPages/Workbook.unity
+    guid: 08bf21df0e28d854a85962ed84e67822
+  - enabled: 1
+    path: Assets/Scenes/DockPages/Personal.unity
+    guid: 56e0825bc7be37a4c87925246b45f60c
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

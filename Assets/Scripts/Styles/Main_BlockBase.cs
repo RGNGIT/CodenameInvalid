@@ -7,7 +7,6 @@ using UnityEngine.UI;
 public class Main_BlockBase : MonoBehaviour
 {
     public TMP_Text Header;
-    public GameObject Base;
 
     private void Awake()
     {

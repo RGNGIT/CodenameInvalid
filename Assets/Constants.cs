@@ -36,7 +36,9 @@ public static class Constants
         Register = 1,
         Main = 2,
         IntroTest = 4,
-        Settings = 5
+        Settings = 5,
+        Workbook = 6,
+        Personal = 7
     }
 }
 

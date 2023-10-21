@@ -14,11 +14,15 @@ public class ControlsEvents : MonoBehaviour
 
     bool isMainFound;
     bool isSettingsFound;
+    bool isWorkbookFound;
+    bool isPersonalFound;
 
     private void Awake()
     {
         isMainFound = GameObject.Find("IsMain") != null;
         isSettingsFound = GameObject.Find("IsSettings") != null;
+        isWorkbookFound = GameObject.Find("IsWorkbook") != null;
+        isPersonalFound = GameObject.Find("IsPersonal") != null;
     }
 
     private void Update()
@@ -30,10 +34,24 @@ public class ControlsEvents : MonoBehaviour
             Header.text = "Главная";
         }
 
-        if (isSettingsFound)
+        if (isWorkbookFound)
         {
             Texts[1].color = Runtime.currentTheme.Icon_Highlight;
             Icons[1].color = Runtime.currentTheme.Icon_Highlight;
+            Header.text = "Учебник";
+        }
+
+        if (isPersonalFound)
+        {
+            Texts[2].color = Runtime.currentTheme.Icon_Highlight;
+            Icons[2].color = Runtime.currentTheme.Icon_Highlight;
+            Header.text = "Профиль";
+        }
+
+        if (isSettingsFound)
+        {
+            Texts[3].color = Runtime.currentTheme.Icon_Highlight;
+            Icons[3].color = Runtime.currentTheme.Icon_Highlight;
             Header.text = "Настройки";
         }
     }
@@ -41,6 +59,16 @@ public class ControlsEvents : MonoBehaviour
     public void ToMainPage() 
     {
         SceneManager.LoadScene((int)Constants.EScene.Main);
+    }
+
+    public void ToWorkbookPage()
+    {
+        SceneManager.LoadScene((int)Constants.EScene.Workbook);
+    }
+
+    public void ToPersonalPage()
+    {
+        SceneManager.LoadScene((int)Constants.EScene.Personal);
     }
 
     public void ToSettingsPage() 
