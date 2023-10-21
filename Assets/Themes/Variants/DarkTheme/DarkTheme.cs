@@ -5,10 +5,12 @@ using UnityEngine;
 
 public class DarkTheme : IThemeInitializer
 {
-    private string DockIconsPath = Constants.ThemesFolder + $@"DarkTheme\Icons\";
+    
 
     public Theme Initialize() 
     {
+        string DockIconsPath = Constants.ThemesFolder + $@"{GetType().Name}\Icons\";
+
         return new Theme(
             "Темная тема", // Название
             new Color32(10, 10, 10, 0xFF), // Цвет задника

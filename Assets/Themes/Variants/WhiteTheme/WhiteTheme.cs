@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class WhiteTheme : IThemeInitializer
 {
-    private string DockIconsPath = Constants.ThemesFolder + $@"WhiteTheme\Icons\";
-
     public Theme Initialize() 
     {
+        string DockIconsPath = Constants.ThemesFolder + $@"{GetType().Name}\Icons\";
+
         return new Theme(
             "Светлая тема", // Название
             new Color32(248, 248, 255, 0xFF), // Цвет задника
