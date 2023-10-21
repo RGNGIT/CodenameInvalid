@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bb6fd5720fe859f429ebea375278e73d
+guid: 2e27f849c1357c04abbd47cf88c53608
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7635013726552783190
-    second: home_0
+      213: 3540347177894500434
+    second: book-bookmark_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,12 +110,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: home_0
+      name: book-bookmark_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 41
         y: 0
-        width: 512
+        width: 430
         height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 659f862488405f960800000000000000
-      internalID: 7635013726552783190
+      spriteID: 25855ff2007d12130800000000000000
+      internalID: 3540347177894500434
       vertices: []
       indices: 
       edges: []
@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      book-bookmark_0: 3540347177894500434
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

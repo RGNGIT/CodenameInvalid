@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 19fbbdde7cda3574c928edcf4ae44463
+guid: 620a69d2f811b1e419ffbb292ac49ec7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3540347177894500434
-    second: book-bookmark_0
+      213: -1361333851520428129
+    second: 119-1196380_masks-theater-masks-clip-art-PhotoRoom_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: book-bookmark_0
+      name: 119-1196380_masks-theater-masks-clip-art-PhotoRoom_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 0
-        width: 430
-        height: 512
+        x: 118
+        y: 56
+        width: 603
+        height: 503
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25855ff2007d12130800000000000000
-      internalID: 3540347177894500434
+      spriteID: f97196f13129b1de0800000000000000
+      internalID: -1361333851520428129
       vertices: []
       indices: 
       edges: []

@@ -1,7 +1,11 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using System.IO;
+using UnityEngine;
 
 public class WhiteTheme : IThemeInitializer
 {
+    private string DockIconsPath = Constants.ThemesFolder + $@"WhiteTheme\Icons\";
+
     public Theme Initialize() 
     {
         return new Theme(
@@ -13,7 +17,14 @@ public class WhiteTheme : IThemeInitializer
             new Color32(128, 128, 128, 0xFF), // Цвет на иконках
             Color.blue, // Цвет тайлов из входного теста
             Color.blue, // Цвет хайлайта иконки
-            new Color32(0, 0, 128, 0x0F) // Цвет базы блока главного меню
+            new Color32(0, 0, 128, 0x0F), // Цвет базы блока главного меню
+            new List<string>
+            {
+                DockIconsPath + "home.png",
+                DockIconsPath + "book-bookmark.png",
+                DockIconsPath + "user.png",
+                DockIconsPath + "settings.png"
+            }
             );
     }
 }

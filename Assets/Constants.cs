@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 
 public static class Constants
@@ -9,14 +10,18 @@ public static class Constants
         { "ERROR", EApiResponseStatus.Error }
     };
 
+    public static string ThemesFolder = $@"{Directory.GetCurrentDirectory()}\Assets\Themes\Variants\";
+
     public static Dictionary<ETheme, Theme> Themes = new() 
     {
-        { ETheme.WhiteTheme, new WhiteTheme().Initialize() }
+        { ETheme.WhiteTheme, new WhiteTheme().Initialize() },
+        { ETheme.DarkTheme, new DarkTheme().Initialize() }
     };
 
     public enum ETheme 
     {
-        WhiteTheme = 0
+        WhiteTheme = 0,
+        DarkTheme = 1
     }
 
     public enum EApiResponseStatus 

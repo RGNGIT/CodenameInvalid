@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using System.IO;
+using System.Security.Cryptography;
+using UnityEngine;
+using UnityEngine.UI;
 
 public interface IThemeInitializer
 {
@@ -12,6 +16,19 @@ public class Theme
     /// </summary>
     public string Name { get; }
 
+    private Texture2D ImageLoader(string path) 
+    {
+        Texture2D temp = new(512, 512);
+        byte[] imageBytes = File.ReadAllBytes(path);
+        temp.LoadImage(imageBytes);
+        return temp;
+    }
+
+    private void LoadIcons(List<string> iconPaths) 
+    {
+        iconPaths.ForEach(p => DockIcons.Add(ImageLoader(p)));
+    }
+
     public Theme(
         string Name, 
         Color Common_BackgroundColor,
@@ -21,7 +38,8 @@ public class Theme
         Color TextColor_2,
         Color IntroTest_TileColor,
         Color Icon_Highlight,
-        Color Main_BlockBase
+        Color Main_BlockBase,
+        List<string> iconPaths
         )
     {
         this.Name = Name;
@@ -33,6 +51,7 @@ public class Theme
         this.IntroTest_TileColor = IntroTest_TileColor;
         this.Icon_Highlight = Icon_Highlight;
         this.Main_BlockBase = Main_BlockBase;
+        LoadIcons(iconPaths);
     }
     /// <summary>
     /// Цвет задника
@@ -66,4 +85,8 @@ public class Theme
     /// Цвет базы для блока главного меню
     /// </summary>
     public Color Main_BlockBase { get; }
+    /// <summary>
+    /// Иконки на док (512x512)
+    /// </summary>
+    public List<Texture2D> DockIcons { get; } = new();
 }
