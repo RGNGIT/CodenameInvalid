@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34464285b18b69f47b9ac3da421f1125
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Minimaliste Container
+    Lumi2Color.mat
+  uploadId: 522865

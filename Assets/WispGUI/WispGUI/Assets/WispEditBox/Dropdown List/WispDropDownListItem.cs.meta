@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d680b478d273c443a1e19cbb532dcec
+timeCreated: 1522327260
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/Dropdown List/WispDropDownListItem.cs
+  uploadId: 522865

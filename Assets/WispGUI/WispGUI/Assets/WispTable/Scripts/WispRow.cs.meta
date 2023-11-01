@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c8462bd740bc19443b3532861c9a71ad
+timeCreated: 1522581866
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Scripts/WispRow.cs
+  uploadId: 522865

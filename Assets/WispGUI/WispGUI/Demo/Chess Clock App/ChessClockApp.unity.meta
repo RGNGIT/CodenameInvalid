@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd694377da9ccd24a836d9bcd8b497d7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Chess Clock App/ChessClockApp.unity
+  uploadId: 522865

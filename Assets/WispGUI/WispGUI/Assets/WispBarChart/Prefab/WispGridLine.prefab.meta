@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ea3b104be9e4794db4d05d1c1a2d1ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispBarChart/Prefab/WispGridLine.prefab
+  uploadId: 522865

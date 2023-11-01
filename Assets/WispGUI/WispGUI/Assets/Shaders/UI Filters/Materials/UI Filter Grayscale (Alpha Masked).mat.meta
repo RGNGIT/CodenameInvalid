@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 441c7d78ef583f746987a38c07eff2a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/UI Filters/Materials/UI Filter
+    Grayscale (Alpha Masked).mat
+  uploadId: 522865

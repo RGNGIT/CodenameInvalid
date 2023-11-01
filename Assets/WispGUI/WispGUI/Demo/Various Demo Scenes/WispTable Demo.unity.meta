@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c19866d9b2b08843b082c84df3ebc48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Various Demo Scenes/WispTable Demo.unity
+  uploadId: 522865

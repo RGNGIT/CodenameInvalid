@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 848c48ec58f2649418939fcd6b9b7165
+timeCreated: 1517841589
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/WispCalendar/Script/WispCalendar.cs
+  uploadId: 522865

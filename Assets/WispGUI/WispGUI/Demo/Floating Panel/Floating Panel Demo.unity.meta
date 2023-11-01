@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec91e2280fabce342884245b8fec8766
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Floating Panel/Floating Panel Demo.unity
+  uploadId: 522865

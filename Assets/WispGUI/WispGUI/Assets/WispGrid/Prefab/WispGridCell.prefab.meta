@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 064c6ce2c11f91041b78cce589fff590
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGrid/Prefab/WispGridCell.prefab
+  uploadId: 522865

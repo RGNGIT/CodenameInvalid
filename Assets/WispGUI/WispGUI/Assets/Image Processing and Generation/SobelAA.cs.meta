@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f03cb7a7afeb2a47945170c4d1968a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Image Processing and Generation/SobelAA.cs
+  uploadId: 522865

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d1818fa742a7de48b4835c364621d76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTooltip/Script/WispTooltipTrigger.cs
+  uploadId: 522865

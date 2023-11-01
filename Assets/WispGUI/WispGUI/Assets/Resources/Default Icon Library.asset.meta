@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2213dc2b0118924fba70ead566469a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Resources/Default Icon Library.asset
+  uploadId: 522865

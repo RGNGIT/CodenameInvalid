@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0acc697155ecc674386b0adf4d0ce546
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Glassmorphism (Gaussian).mat
+  uploadId: 522865

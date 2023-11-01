@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49415e9124209e441b88de368d0fda78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Zen Dots/ZenDots Regular
+    SDF.asset
+  uploadId: 522865

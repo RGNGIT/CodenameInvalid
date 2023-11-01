@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86cae518906059744aea9a208d236db9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Demo Scene/Demo SceneSettings.lighting
+  uploadId: 522865

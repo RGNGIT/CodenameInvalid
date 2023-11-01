@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e67518b7423cdb448b5b7c47b922e72d, type: 3}
+  m_Name: Default Icon Library
+  m_EditorClassIdentifier: 
+  LibraryName: Default
+  add: {fileID: 21300000, guid: ae14060ef24588644bf6e93895908bec, type: 3}
+  edit: {fileID: 21300000, guid: b81351fcc67212c4ba4c66499d2ce849, type: 3}
+  file: {fileID: 21300000, guid: 89755266f77e459428553a2f496c49ff, type: 3}
+  delete: {fileID: 21300000, guid: 20728b452dd0d7645b3f180a2720451e, type: 3}
+  history: {fileID: 21300000, guid: 4d7cbfd79fdb9a1428c4ca3d3dc3909f, type: 3}
+  no_image: {fileID: 21300000, guid: ca3b63a74adbd6446ad4a2048586d623, type: 3}
+  directory: {fileID: 21300000, guid: af2ea5bd90a8e7f4fbefab20bcfc7913, type: 3}
+  hourglass: {fileID: 21300000, guid: 4e77b9d476db416498bbdaead2614083, type: 3}

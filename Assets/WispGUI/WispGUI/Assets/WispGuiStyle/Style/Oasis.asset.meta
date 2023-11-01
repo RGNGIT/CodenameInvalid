@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 54309b81f1c8e9244ae62ae8595dc612
+timeCreated: 1542580007
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Oasis.asset
+  uploadId: 522865

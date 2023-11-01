@@ -1,0 +1,5 @@
+WispGUI 1.6.5
+=============
+
+Progress Bar is now responsive to size changes.
+Bar Chart is now responsive to size changes.

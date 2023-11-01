@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f107f773a1eb9bf4bb31c838085bec21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispLineRenderer/Prefab/WispLineRenderer.prefab
+  uploadId: 522865

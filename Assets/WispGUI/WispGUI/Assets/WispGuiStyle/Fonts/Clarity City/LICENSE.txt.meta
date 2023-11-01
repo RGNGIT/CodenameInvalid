@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5270fab98d67fc4d833bae216fc46e5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Clarity City/LICENSE.txt
+  uploadId: 522865

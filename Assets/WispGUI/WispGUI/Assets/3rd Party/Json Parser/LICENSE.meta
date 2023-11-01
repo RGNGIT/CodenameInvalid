@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 445610255d2fb7240b98d991ad0ab578
+timeCreated: 1493877358
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/3rd Party/Json Parser/LICENSE
+  uploadId: 522865

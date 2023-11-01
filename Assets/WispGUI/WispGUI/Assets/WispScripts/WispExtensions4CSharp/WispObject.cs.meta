@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0aae8f840e251164290a4afd4f35bbca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScripts/WispExtensions4CSharp/WispObject.cs
+  uploadId: 522865

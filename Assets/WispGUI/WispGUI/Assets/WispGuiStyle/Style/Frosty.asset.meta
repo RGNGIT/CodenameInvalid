@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73623e6e158ce864eadbcd2a22fc5909
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Frosty.asset
+  uploadId: 522865

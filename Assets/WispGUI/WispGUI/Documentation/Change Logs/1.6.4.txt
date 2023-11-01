@@ -1,0 +1,6 @@
+WispGUI 1.6.4
+=============
+
+Slider : Bug Fix.
+Circular Slider : Fixed Opacity not working.
+Documentation : Updated.

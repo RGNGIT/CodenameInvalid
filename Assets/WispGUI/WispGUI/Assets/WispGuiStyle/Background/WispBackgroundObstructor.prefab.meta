@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a72ab0633c0078545b288b3c286fcbaf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Background/WispBackgroundObstructor.prefab
+  uploadId: 522865

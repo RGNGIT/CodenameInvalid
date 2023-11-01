@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0eee467979b9c2439e75e3022c6e65a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTimeLine/Scripts/WispTimeLine.cs
+  uploadId: 522865

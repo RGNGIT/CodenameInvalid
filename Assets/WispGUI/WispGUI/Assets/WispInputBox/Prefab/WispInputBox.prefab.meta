@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6140999207a052149853daf0ca3fb89a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispInputBox/Prefab/WispInputBox.prefab
+  uploadId: 522865

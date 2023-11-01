@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc14c3d5589ee20488a35689f8cdee35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Basically a sans serif/BasicallyASansSerif
+    Bold SDF.asset
+  uploadId: 522865

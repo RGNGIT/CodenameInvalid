@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d46803852bc4b64f83ba504e8ef1c65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Tokwa.asset
+  uploadId: 522865

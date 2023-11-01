@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ddaedeb388b13149bfab2d554ae2a66
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispButtonPanel/Prefab/WispButtonPanel.prefab
+  uploadId: 522865

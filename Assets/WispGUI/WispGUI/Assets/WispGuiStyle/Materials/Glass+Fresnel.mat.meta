@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87f8cbc8eb9fa384ebe487364e8e7046
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Glass+Fresnel.mat
+  uploadId: 522865

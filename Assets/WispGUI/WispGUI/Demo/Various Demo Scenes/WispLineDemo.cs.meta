@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 914f8d3c7e7d13e40b6a6413b1987942
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Various Demo Scenes/WispLineDemo.cs
+  uploadId: 522865

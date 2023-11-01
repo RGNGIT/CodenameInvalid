@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b85ff6c15d3b0a24fba8786a4e65810c
+timeCreated: 1543691445
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Titanium.asset
+  uploadId: 522865

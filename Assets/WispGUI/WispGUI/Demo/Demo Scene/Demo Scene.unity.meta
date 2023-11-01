@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f8dcfce7f3cb98845a4597f8ab45a363
+timeCreated: 1537675738
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Demo Scene/Demo Scene.unity
+  uploadId: 522865

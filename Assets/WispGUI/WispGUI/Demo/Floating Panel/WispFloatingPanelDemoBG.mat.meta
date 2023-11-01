@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb746a856fc66b2468dd4639b4048315
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Floating Panel/WispFloatingPanelDemoBG.mat
+  uploadId: 522865

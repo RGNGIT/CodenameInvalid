@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 938d0e4a2d009554780d4c233246bf3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispLoadingPanel/Prefab/WispLoadingPanel.prefab
+  uploadId: 522865

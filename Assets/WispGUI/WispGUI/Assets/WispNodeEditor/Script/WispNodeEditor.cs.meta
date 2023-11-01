@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6cb8684dc410e8a4b869ea14763f053d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispNodeEditor/Script/WispNodeEditor.cs
+  uploadId: 522865

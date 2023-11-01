@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ee34379ecf8aa8d4c9486d39e841c228
+timeCreated: 1521870838
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Scripts/WispColumn.cs
+  uploadId: 522865

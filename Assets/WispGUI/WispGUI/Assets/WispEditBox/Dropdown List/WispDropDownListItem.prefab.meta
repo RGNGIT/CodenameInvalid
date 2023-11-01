@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 215c1e054e311504690e1e5d87febb4a
+timeCreated: 1522329189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/Dropdown List/WispDropDownListItem.prefab
+  uploadId: 522865

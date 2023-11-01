@@ -1,0 +1,24 @@
+WispGUI 1.0.1
+=============
+
+WispVisualComponent :
+- Sub-Style System.
+
+WispImage :
+- Added OnDownloadComplet Event.
+- SetValue from Texture2D.
+
+WispNodeEditor :
+- Anti-aliasing for lines.
+- Reroute nodes.
+
+WispPopupView :
+- Renamed to WispDialogWindow.
+
+WispGuiStyle :
+- 9 styles redesigned.
+- 1 New style.
+- Included 5 new OFL fonts.
+
+WispLoadingPanel :
+- New loading animation.

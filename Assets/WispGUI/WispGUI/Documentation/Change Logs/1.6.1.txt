@@ -1,0 +1,13 @@
+WispGUI 1.6.1
+=============
+
+Calendar :
+----------
+- Fully responsive to size changes.
+- Full support for padding and button spacing.
+- Slide transition between months.
+- Adjustable transition speed.
+
+Title Bar :
+-----------
+- Added snap to grid functionality.

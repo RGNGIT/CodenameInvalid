@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d077080e4d4c897448bc12e5a34c0b30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Demo Scene/WispEntityEditorDemo.cs
+  uploadId: 522865

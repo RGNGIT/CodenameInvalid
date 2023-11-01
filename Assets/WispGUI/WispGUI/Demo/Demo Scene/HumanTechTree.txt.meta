@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a877908b4246e0f47acc68686bb4aee8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Demo Scene/HumanTechTree.txt
+  uploadId: 522865

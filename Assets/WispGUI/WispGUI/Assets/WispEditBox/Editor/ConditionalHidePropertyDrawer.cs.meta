@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 875867be45f63fd41bb1baecc7b98540
+timeCreated: 1543958750
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/Editor/ConditionalHidePropertyDrawer.cs
+  uploadId: 522865

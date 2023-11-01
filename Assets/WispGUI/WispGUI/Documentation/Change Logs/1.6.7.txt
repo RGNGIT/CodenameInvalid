@@ -1,0 +1,5 @@
+WispGUI 1.6.7
+=============
+
+Glassmorphism Shader : Fixed bug where game objects that use this shader were ignoring the state of masked graphics behind them.
+WispAutoSize : A Utility component that helps with building responsive UIs, was added.

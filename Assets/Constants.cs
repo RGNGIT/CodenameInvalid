@@ -15,13 +15,15 @@ public static class Constants
     public static Dictionary<ETheme, Theme> Themes = new() 
     {
         { ETheme.WhiteTheme, new WhiteTheme().Initialize() },
-        { ETheme.DarkTheme, new DarkTheme().Initialize() }
+        { ETheme.DarkTheme, new DarkTheme().Initialize() },
+        { ETheme.DabudiTheme, new DabudiTheme().Initialize() }
     };
 
     public enum ETheme 
     {
         WhiteTheme = 0,
-        DarkTheme = 1
+        DarkTheme = 1,
+        DabudiTheme = 2,
     }
 
     public enum EApiResponseStatus 

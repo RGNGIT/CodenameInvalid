@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 475f904ef1c803d4393d45bcf0676de0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Desktop/Desktop.unity
+  uploadId: 522865

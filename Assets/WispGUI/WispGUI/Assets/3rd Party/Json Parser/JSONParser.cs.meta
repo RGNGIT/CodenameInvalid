@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 197965552e23f6b4b9a5fa2289b2ae48
+timeCreated: 1493877358
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/3rd Party/Json Parser/JSONParser.cs
+  uploadId: 522865

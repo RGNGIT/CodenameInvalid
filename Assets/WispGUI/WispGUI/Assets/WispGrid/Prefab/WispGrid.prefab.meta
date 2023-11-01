@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba45bce4dcac15742be68b1a73798d1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGrid/Prefab/WispGrid.prefab
+  uploadId: 522865

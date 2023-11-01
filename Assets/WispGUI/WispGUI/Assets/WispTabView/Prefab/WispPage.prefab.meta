@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 585e65ad6917eb046b5db847bb458833
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTabView/Prefab/WispPage.prefab
+  uploadId: 522865

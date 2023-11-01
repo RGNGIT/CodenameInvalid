@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0873b94d5e1eb14288665d091131151, type: 3}
+  m_Name: Trinity
+  m_EditorClassIdentifier: 
+  styleName: Trinity
+  Font: {fileID: 11400000, guid: c4b8b868d500f2c4aa89e2bb70f26f37, type: 2}
+  FontSizeNormal: 14
+  FontSizeHeader: 20
+  FontSizeLabel: 16
+  FontSizeQuiet: 12
+  LineColor: {r: 0, g: 0.6117647, b: 0.047058824, a: 1}
+  horizontalScrollBar: {fileID: 21300000, guid: 40e94b958eddd9841aeb85f3290d4d4c, type: 3}
+  horizontalScrollBarHandle: {fileID: 21300000, guid: 1ca94df23922b9242848fb27d172b8b5, type: 3}
+  verticalScrollBar: {fileID: 21300000, guid: 40e94b958eddd9841aeb85f3290d4d4c, type: 3}
+  verticalScrollBarHandle: {fileID: 21300000, guid: 1ca94df23922b9242848fb27d172b8b5, type: 3}
+  ScrollbarBackgroundColor: {r: 0, g: 0.2, b: 0.015686274, a: 1}
+  ScrollbarHandleColor: {r: 0, g: 0.2, b: 0.015686275, a: 1}
+  ScrollbarDrawMode: 1
+  ScrollViewMask: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  ScrollbarSpacingSettings:
+    horizontalScrollbarYOffset: 0
+    horizontalScrollbarXPaddings: 0
+    verticalScrollbarXOffset: 0
+    verticalScrollbarYPaddings: 0
+  ImageColor: {r: 0, g: 0, b: 0, a: 1}
+  ProgressColor: {r: 1, g: 0.930426, b: 0, a: 1}
+  ResizingBarActiveColor: {r: 1, g: 1, b: 1, a: 0.5}
+  ResizingBarInactiveColor: {r: 0, g: 0, b: 0, a: 0}
+  ResizingHandleColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+  buttonColorBlock:
+    m_NormalColor: {r: 0.61, g: 0.61, b: 0.61, a: 1}
+    m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 1, g: 0.920817, b: 0, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  gridColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.2509804}
+  ButtonHorizontalSpacing: 4
+  ButtonVerticalSpacing: 4
+  HorizontalPadding: 4
+  VerticalPadding: 4
+  enableBorders: 1
+  borderColor: {r: 0, g: 0.748, b: 0.057538506, a: 1}
+  selectedBorderColor: {r: 1, g: 0.8605422, b: 0, a: 1}
+  borderWidth: 2
+  borderType: 0
+  none:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 0}
+    spriteDrawMode: 1
+    material: {fileID: 0}
+  background:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 21300000, guid: 1ca94df23922b9242848fb27d172b8b5, type: 3}
+    spriteDrawMode: 2
+    material: {fileID: 0}
+  widget:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 21300000, guid: 48d0aa8be82e92845b8a81480e20ea8d, type: 3}
+    spriteDrawMode: 1
+    material: {fileID: 2100000, guid: c444cad6ffe835b4093b11722d01469d, type: 2}
+  container:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 21300000, guid: 1ca94df23922b9242848fb27d172b8b5, type: 3}
+    spriteDrawMode: 2
+    material: {fileID: 0}
+  picture:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 0}
+    spriteDrawMode: 0
+    material: {fileID: 0}
+  icon:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 0, g: 0.6117647, b: 0.047058824, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 0}
+    spriteDrawMode: 0
+    material: {fileID: 0}
+  titleBar:
+    activeColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 1}
+    activeBackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    inactiveColor: {r: 0, g: 0.7490196, b: 0.05882353, a: 0.5019608}
+    inactiveBackgroundColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    selectedColor: {r: 0, g: 0, b: 0, a: 1}
+    selectedBackgroundColor: {r: 1, g: 0.85882354, b: 0, a: 1}
+    graphics: {fileID: 21300000, guid: 1ca94df23922b9242848fb27d172b8b5, type: 3}
+    spriteDrawMode: 2
+    material: {fileID: 0}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c1695d02fbbcc64f8e5b1cd92ca92c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispContextMenu/Script/WispContextMenu.cs
+  uploadId: 522865

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 529ea5abdb408da49a71c817dfb8b0ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispFloatingPanel/Prefab/WispFloatingPanel.prefab
+  uploadId: 522865

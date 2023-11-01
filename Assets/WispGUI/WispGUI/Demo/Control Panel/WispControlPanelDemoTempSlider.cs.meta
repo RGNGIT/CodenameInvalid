@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 090939fc6f5825a4d957040caa6ede86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Control Panel/WispControlPanelDemoTempSlider.cs
+  uploadId: 522865

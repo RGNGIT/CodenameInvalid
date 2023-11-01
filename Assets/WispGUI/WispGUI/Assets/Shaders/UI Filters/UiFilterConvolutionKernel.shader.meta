@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ee054920fb76fb3479b1e3af16893e9f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/UI Filters/UiFilterConvolutionKernel.shader
+  uploadId: 522865

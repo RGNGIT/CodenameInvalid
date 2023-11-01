@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddc0ccb311562d04695b0ce5a31b1a4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEntityEditor/Prefab/WispEntityEditor.prefab
+  uploadId: 522865

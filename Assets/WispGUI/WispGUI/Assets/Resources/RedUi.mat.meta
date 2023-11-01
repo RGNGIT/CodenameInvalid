@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4d3ff9557e885a4493c1600bdb0ff52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Resources/RedUi.mat
+  uploadId: 522865

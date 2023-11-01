@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90ecc66df75a5674b8da9c5ab9bc6b64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScrollView/Prefab/WispScrollView.prefab
+  uploadId: 522865

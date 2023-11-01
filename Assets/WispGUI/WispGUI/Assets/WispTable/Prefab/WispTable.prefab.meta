@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a99c65153100eed40a4da5fbaf20bc01
+timeCreated: 1520604139
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Prefab/WispTable.prefab
+  uploadId: 522865

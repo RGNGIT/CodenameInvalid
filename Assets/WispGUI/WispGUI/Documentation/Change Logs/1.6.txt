@@ -1,0 +1,11 @@
+WispGUI 1.6
+===========
+
+Resizing Handle :
+-----------------
+- Fully converted to stand-alone component.
+- Target minimum and maximum size can now be set from the inspector.
+- Two resize modes : Centered and Directional.
+- Snap size to a grid.
+- Smooth animated resizing with adjustable speed.
+- Prevent resizing outside of canvas bounds.

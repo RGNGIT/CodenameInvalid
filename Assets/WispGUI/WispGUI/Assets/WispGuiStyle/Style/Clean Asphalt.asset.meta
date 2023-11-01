@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f6015b5886dfee42b1466261271df39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Clean Asphalt.asset
+  uploadId: 522865

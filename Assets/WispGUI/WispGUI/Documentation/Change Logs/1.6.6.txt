@@ -1,0 +1,6 @@
+WispGUI 1.6.6
+=============
+
+- Responsive buttons and icons.
+- Button icons will now respect aspect ratio by default.
+- WispTextMeshPro : Added ability to fit Rect size to text size in the inspector or from code.

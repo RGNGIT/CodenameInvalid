@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6cc52ea6a321b634aa5a91342b092f3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScripts/WispKeyBoardEventSystem.cs
+  uploadId: 522865

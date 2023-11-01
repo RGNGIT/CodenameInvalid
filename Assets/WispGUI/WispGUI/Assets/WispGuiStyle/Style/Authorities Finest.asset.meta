@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9fc577a9dc2cf64e9826265247eaa2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Authorities Finest.asset
+  uploadId: 522865

@@ -1,0 +1,9 @@
+WispGUI 1.2
+=============
+
+2 New components :
+- Slider.
+- Circular Slider.
+
+Shaders :
+- Radial gradient shader now supports vertex color.

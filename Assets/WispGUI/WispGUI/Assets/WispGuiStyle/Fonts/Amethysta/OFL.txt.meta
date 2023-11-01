@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db33ec477e9ed274fa9147cb4d7c5414
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Amethysta/OFL.txt
+  uploadId: 522865

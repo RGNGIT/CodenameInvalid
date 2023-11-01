@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5234a78a431e152478af1d5f3d524912
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/UI Filters/UiFilterAlphaMaskedGrayscale.shader
+  uploadId: 522865

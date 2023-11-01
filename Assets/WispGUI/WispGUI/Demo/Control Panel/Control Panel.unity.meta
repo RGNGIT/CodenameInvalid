@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6e65f85a88be784b965e93b973a5d95
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Control Panel/Control Panel.unity
+  uploadId: 522865

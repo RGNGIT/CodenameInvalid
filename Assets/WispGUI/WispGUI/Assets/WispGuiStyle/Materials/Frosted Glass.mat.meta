@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ca8b5aafa1f6094399da71e36ffa597
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Frosted Glass.mat
+  uploadId: 522865

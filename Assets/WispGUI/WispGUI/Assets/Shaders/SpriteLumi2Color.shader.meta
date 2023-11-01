@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af9c920dbb203a5429de6dc67dc40557
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/SpriteLumi2Color.shader
+  uploadId: 522865

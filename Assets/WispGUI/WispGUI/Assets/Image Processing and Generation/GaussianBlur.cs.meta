@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b781674d53eabd4f9225a9ac0aa4858
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Image Processing and Generation/GaussianBlur.cs
+  uploadId: 522865

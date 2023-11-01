@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c9ec07b2dd6a7748a5c2df6d2690bca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispDialogWindow/Prefab/WispDialogWindow.prefab
+  uploadId: 522865

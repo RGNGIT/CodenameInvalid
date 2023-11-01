@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0cbf20bf2a6dadc42a0c1b223f760b9e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Basically a sans serif/License.txt
+  uploadId: 522865

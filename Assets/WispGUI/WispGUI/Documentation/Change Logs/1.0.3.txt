@@ -1,0 +1,12 @@
+WispGUI 1.0.3
+=============
+
+UI Filters :
+- Added blending value for Blur and Colored Blur.
+
+WispWindow :
+- Smooth background obstructor transition.
+
+WispProgressBar :
+- Definable initial value.
+- Added option to center text in progress bar.

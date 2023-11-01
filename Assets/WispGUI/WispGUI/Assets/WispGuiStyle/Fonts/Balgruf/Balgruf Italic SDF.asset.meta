@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49de5fce3140d1146be33bce449c74fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Balgruf/Balgruf Italic
+    SDF.asset
+  uploadId: 522865

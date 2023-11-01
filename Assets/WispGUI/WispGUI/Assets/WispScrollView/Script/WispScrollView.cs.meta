@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d91baa2b49da1b349941e4f8f23e65b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScrollView/Script/WispScrollView.cs
+  uploadId: 522865

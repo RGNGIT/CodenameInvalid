@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b9a4c31005658b4383bcc080c5ed50e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Third-Party Notices.txt
+  uploadId: 522865

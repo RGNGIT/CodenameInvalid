@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df142410972e5654e89857cccc827ac7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Control Panel/WispDemoOpacitySlider.cs
+  uploadId: 522865

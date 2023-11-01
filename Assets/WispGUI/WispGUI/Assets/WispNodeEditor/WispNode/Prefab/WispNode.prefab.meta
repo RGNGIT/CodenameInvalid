@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 485f8bf43e1d3c54bbab3fc2ccc7bcf1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispNodeEditor/WispNode/Prefab/WispNode.prefab
+  uploadId: 522865

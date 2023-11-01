@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d5c878d8f4c90f4d967ed9eb461a0cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScripts/WispExtensions4Unity/WispVector.cs
+  uploadId: 522865

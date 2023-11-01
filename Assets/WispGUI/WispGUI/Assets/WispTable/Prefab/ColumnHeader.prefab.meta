@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a5fdc9e0a8cbfdb41943bbf28f90ee9d
+timeCreated: 1520603103
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Prefab/ColumnHeader.prefab
+  uploadId: 522865

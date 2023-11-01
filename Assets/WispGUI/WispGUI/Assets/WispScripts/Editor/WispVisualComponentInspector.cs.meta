@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a535eed2605e024280dd5f9ec9f7918
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScripts/Editor/WispVisualComponentInspector.cs
+  uploadId: 522865

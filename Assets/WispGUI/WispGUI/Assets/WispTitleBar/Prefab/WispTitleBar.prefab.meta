@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f3a218c9fbe3d04f918f6002a06a6b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTitleBar/Prefab/WispTitleBar.prefab
+  uploadId: 522865

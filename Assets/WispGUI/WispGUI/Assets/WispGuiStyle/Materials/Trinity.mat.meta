@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f8b300d6a86e6146a1e95e0288c2c2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Trinity.mat
+  uploadId: 522865

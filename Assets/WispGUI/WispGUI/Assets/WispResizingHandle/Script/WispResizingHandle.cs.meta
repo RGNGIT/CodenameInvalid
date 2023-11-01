@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45a271f6fda42f34e90dad73f8f4552c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispResizingHandle/Script/WispResizingHandle.cs
+  uploadId: 522865

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 3ce585292673b2245bc3501ab9553316
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Basically A Sans Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9224dab6f5450b448b6ef54e96856970, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Basically a sans serif/BasicallyASansSerif-Regular.otf
+  uploadId: 522865

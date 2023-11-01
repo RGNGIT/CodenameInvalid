@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1dde225d890952409d1be3f23e3e237
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispNodeEditor/WispNode/Prefab/WispRerouteNode.prefab
+  uploadId: 522865

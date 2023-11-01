@@ -16,7 +16,7 @@ public class MainEvents : MonoBehaviour
         PlaceBlocks();
     }
 
-    float y = -(1256f - 965f);
+    float y = -(1256f - 965f) - 1250;
     public void PlaceBlock(string header) 
     {
         GameObject block = Instantiate(Block);

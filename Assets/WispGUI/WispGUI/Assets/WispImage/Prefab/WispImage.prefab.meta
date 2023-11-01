@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e759d64626a9fa4d8877bfbce2bb60e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispImage/Prefab/WispImage.prefab
+  uploadId: 522865

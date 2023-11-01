@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 104cc7f48740edb45910a2d3348e878a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/UI Filters/Materials/UI Filter
+    Colored Box Blur.mat
+  uploadId: 522865

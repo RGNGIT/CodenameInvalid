@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebcaec141e34786468e38de2369133c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Prefab/WispNoRowPanel.prefab
+  uploadId: 522865

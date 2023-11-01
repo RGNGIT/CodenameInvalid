@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbf21df3887c89647853e392de449563
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTooltip/Prefab/WispTooltip.prefab
+  uploadId: 522865

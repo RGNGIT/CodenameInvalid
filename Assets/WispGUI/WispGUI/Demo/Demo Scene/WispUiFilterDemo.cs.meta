@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b4927e8c85b23db47b6447f4ad9cc5ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Demo Scene/WispUiFilterDemo.cs
+  uploadId: 522865

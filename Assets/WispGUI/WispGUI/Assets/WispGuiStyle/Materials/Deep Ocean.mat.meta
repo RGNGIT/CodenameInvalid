@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5448cd40676f4d4b9cf2dbac46f819e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Deep Ocean.mat
+  uploadId: 522865

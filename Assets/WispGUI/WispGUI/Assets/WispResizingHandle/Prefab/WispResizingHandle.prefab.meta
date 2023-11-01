@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 019bb6fd167ab4b4c934e1162dc60130
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispResizingHandle/Prefab/WispResizingHandle.prefab
+  uploadId: 522865

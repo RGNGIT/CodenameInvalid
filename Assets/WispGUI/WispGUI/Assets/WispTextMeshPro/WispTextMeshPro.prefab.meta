@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b0d02be21d6d5847ad58dc4db0f884a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTextMeshPro/WispTextMeshPro.prefab
+  uploadId: 522865

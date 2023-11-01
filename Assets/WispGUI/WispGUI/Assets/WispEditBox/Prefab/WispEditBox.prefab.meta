@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0cc85ddada0768428f8b20fb13a4b4d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/Prefab/WispEditBox.prefab
+  uploadId: 522865

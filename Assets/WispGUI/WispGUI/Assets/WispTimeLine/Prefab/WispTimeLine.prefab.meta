@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b840ba940b89b64bb49035abb352c75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTimeLine/Prefab/WispTimeLine.prefab
+  uploadId: 522865

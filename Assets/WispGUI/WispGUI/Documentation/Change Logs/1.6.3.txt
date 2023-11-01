@@ -1,0 +1,10 @@
+WispGUI 1.6.3
+=============
+
+WispVisualComponent : Fixed Warnings and errors related to Wysiwyg and Style preview.
+Smart Creator : Auto-Canvas now has an event system part of it.
+Auto parenting : Fixed changes done by auto parenting not being persistent.
+Fixed compatibility issues with Unity 2020.3.
+Sprite Blur Shader now supports vertex colors.
+Minor adjustments to Glassmorphism style and Tokwa style.
+Added new method GetValue01() that returns a float between 0 and 1 to Slider and CircularSlider.

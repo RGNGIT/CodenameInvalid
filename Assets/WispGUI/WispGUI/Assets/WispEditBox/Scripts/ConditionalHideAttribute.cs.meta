@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b2880b1caaf6c714a85cf619b404eadc
+timeCreated: 1543958737
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/Scripts/ConditionalHideAttribute.cs
+  uploadId: 522865

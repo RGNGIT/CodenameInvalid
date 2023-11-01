@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff78820c1d14b214087a495cff502515
+timeCreated: 1517709753
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispEditBox/WispCalendar/Prefab/WispCalendar.prefab
+  uploadId: 522865

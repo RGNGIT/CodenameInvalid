@@ -1,0 +1,25 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. 	TinyJson for C#. (https://github.com/zanders3/json)
+	MIT License.
+	By Zanders3.
+
+B.  Amethysta. (Font)
+	Open Font License.
+	By Cyreal (www.cyreal.org).
+
+C.  Balgruf. (Font)
+	Open Font License.
+	By Paul James Miller.
+
+D.  Basically a sans serif. (Font)
+	Open Font License.
+	By Mental Design.
+
+E.  Clarity City. (Font)
+	Open Font License.
+	By VMware, Inc.
+
+F.  Zen Dots. (Font)
+	Open Font License.
+	By Yoshimichi Ohira.

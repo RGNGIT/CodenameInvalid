@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c13c7a07d7234774989a868769ea032c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTimeLine/Prefab/WispTimeLineEventMark.prefab
+  uploadId: 522865

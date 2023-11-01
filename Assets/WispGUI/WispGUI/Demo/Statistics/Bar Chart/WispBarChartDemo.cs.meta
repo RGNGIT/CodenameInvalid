@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad252420b2cddf44fb72a9742f243893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Demo/Statistics/Bar Chart/WispBarChartDemo.cs
+  uploadId: 522865

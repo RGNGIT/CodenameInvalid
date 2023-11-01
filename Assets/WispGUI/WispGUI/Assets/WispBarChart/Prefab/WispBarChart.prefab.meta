@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c587c6cbaa03594bbf05bd40112079d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispBarChart/Prefab/WispBarChart.prefab
+  uploadId: 522865

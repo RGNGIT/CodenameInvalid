@@ -1,0 +1,21 @@
+WispGUI 1.4.1
+=============
+
+Chess Clock App
+---------------
+- Bug Fix.
+
+Desktop Demo App
+----------------
+- Bug Fix.
+
+WispProgressBar
+---------------
+- Added ability to show/hide progress text from script.
+
+WispScrollView
+---------------
+- Added ability to expand content rectangle from script :
+- ExpandVertically()
+- ExpandHorizontally()
+

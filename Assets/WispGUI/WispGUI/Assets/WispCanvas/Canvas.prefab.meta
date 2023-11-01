@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9aa06c63650ba1c4ead23afb956454ff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispCanvas/Canvas.prefab
+  uploadId: 522865

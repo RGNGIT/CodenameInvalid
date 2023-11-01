@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f59dd596d110ad4d8d229aa1cb3cde9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Balgruf/OFL.txt
+  uploadId: 522865

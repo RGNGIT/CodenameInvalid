@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 77c7175398dca16488eac89150d4b1e3
+timeCreated: 1542580007
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Style/Crimson.asset
+  uploadId: 522865

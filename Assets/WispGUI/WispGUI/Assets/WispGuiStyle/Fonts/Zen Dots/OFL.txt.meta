@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9447d45e07d4a947962bf3c89ac7672
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Zen Dots/OFL.txt
+  uploadId: 522865

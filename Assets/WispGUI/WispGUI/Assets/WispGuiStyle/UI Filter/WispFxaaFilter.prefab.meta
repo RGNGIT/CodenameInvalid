@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6361ed6e584906248bd359db8c06159d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/UI Filter/WispFxaaFilter.prefab
+  uploadId: 522865

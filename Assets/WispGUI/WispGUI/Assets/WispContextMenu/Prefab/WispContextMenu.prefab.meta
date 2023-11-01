@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52177c8cdfecb0d4ca805b12edf44f8e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispContextMenu/Prefab/WispContextMenu.prefab
+  uploadId: 522865

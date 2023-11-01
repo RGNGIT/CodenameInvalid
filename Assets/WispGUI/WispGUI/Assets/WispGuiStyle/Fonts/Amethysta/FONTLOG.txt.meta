@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b8a7bc3070502a49bdd435c456fd0db
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Fonts/Amethysta/FONTLOG.txt
+  uploadId: 522865

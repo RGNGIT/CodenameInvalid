@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94a4fe9117c7d4241a26a31e5e9476e2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispTable/Prefab/Resizer.prefab
+  uploadId: 522865

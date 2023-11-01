@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b85146093c99648458981619a76204c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Resources/Default Style Library.asset
+  uploadId: 522865

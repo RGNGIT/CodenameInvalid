@@ -1,0 +1,20 @@
+WispGUI 1.0.2
+=============
+
+WispVisualComponent :
+- Transition system : fade in or out by calling one method.
+
+WispWindow :
+- Fade in and out on Open and Close.
+
+WispGuiStyle :
+- 1 New style : Obsidian.
+
+WispProgressBar :
+- Newly added.
+
+WispButton :
+- Selected Style/Deselected Style.
+
+WispImage :
+- Selected Style/Deselected Style.

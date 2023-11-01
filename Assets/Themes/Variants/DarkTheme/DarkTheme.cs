@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class DarkTheme : IThemeInitializer
 {
-    
-
     public Theme Initialize() 
     {
         string DockIconsPath = Constants.ThemesFolder + $@"{GetType().Name}\Icons\";

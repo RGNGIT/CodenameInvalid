@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8da9f045333aa14aa000166c254f1dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispSlider/Prefab/WispSlider.prefab
+  uploadId: 522865

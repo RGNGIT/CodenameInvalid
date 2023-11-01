@@ -16,7 +16,7 @@ public static class Runtime
         }
     }
 
-    public static Theme currentTheme = Constants.Themes[Constants.ETheme.DarkTheme];
+    public static Theme currentTheme = Constants.Themes[Constants.ETheme.WhiteTheme];
 
     public static void SetCurrentUser(User user) 
     {

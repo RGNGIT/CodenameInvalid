@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52cc497f99142bb4999c1d3457f1f5a0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Documentation/Change Logs/1.3.txt
+  uploadId: 522865

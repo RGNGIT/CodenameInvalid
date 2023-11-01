@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c120e8601ef7f5b4fab8be23b8a04a17, type: 3}
+  m_Name: Default Style Library
+  m_EditorClassIdentifier: 
+  LibraryName: Default
+  authoritiesFinest: {fileID: 11400000, guid: a9fc577a9dc2cf64e9826265247eaa2c, type: 2}
+  cleanAsphalt: {fileID: 11400000, guid: 4f6015b5886dfee42b1466261271df39, type: 2}
+  crimson: {fileID: 11400000, guid: 77c7175398dca16488eac89150d4b1e3, type: 2}
+  deepOcean: {fileID: 11400000, guid: ed2db00e0a6d6eb4eb46b136293ee022, type: 2}
+  frosty: {fileID: 11400000, guid: 73623e6e158ce864eadbcd2a22fc5909, type: 2}
+  glassmorphism: {fileID: 11400000, guid: 6ad4e7c350cd9744e80e3e40f2c61696, type: 2}
+  minimalist: {fileID: 11400000, guid: d53d4e8c0bf21ed46ba58e64905eb633, type: 2}
+  oasis: {fileID: 11400000, guid: 54309b81f1c8e9244ae62ae8595dc612, type: 2}
+  obsidian: {fileID: 11400000, guid: 4b608d82128dceb429ecd6198dc61d49, type: 2}
+  sugarPlum: {fileID: 11400000, guid: 7939005fbb563df4c83e38259bfb28dc, type: 2}
+  titaniumBorderless: {fileID: 11400000, guid: c683b02b2f73560438cc28bee4eb1c37, type: 2}
+  titanium: {fileID: 11400000, guid: b85ff6c15d3b0a24fba8786a4e65810c, type: 2}
+  trinity: {fileID: 11400000, guid: 1609346a484deb54f8e6588afdab4226, type: 2}
+  vantaBlack: {fileID: 11400000, guid: 686f6f26fd07ee14abdee6fb8fd07a82, type: 2}
+  tokwa: {fileID: 11400000, guid: 0d46803852bc4b64f83ba504e8ef1c65, type: 2}

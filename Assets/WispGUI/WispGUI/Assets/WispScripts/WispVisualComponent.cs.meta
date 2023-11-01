@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 751bfd45e7151b54cbf2050e23d3aec2
+timeCreated: 1537666117
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispScripts/WispVisualComponent.cs
+  uploadId: 522865

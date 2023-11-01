@@ -1,0 +1,10 @@
+WispGUI 1.5
+=============
+
+Bar Chart :
+-----------
+- Newly added.
+
+Quality of Life :
+-----------------
+- Added ability to turn any game object with a RectTransform into a window (Right click game object in hierarchy).

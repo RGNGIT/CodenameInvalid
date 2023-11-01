@@ -1,0 +1,9 @@
+WispGUI 1.3
+===========
+
+- 2 New component :
+
+Title Bar
+Floating Panel
+
+- 1 New sub style : TitleBar

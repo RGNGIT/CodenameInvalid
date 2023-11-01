@@ -1,0 +1,6 @@
+WispGUI 1.4
+===========
+
+- 1 New Style Sheet : Tokwa
+- 1 New Demo Scene : Desktop
+- Titlebar : Added option to bring window to front when drag starts.

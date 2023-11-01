@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 659a9077608f262489e5729e9451be9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispDialogWindow/Script/WispDialogWindow.cs
+  uploadId: 522865

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6413a8ee20e919243ba743c88c122e98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispFileSelector/Prefab/WispFileSelectorItem.prefab
+  uploadId: 522865

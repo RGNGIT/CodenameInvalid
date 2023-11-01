@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c444cad6ffe835b4093b11722d01469d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/WispGuiStyle/Materials/Trinity (SpriteBlur).mat
+  uploadId: 522865

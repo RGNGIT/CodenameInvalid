@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 78d3a27ba0744aa4098b2e3a6b125bdc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/UI Filters/UiFilterGaussianBlur.shader
+  uploadId: 522865

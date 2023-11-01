@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9c9e9a21407d7fd42b22b9cbf4dbb0d4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/Skeuomorphism/Glassmorphism LumiDriven.shader
+  uploadId: 522865

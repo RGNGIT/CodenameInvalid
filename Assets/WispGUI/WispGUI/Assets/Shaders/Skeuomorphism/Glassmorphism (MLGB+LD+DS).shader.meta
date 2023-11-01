@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5cae5e03445fcf643b94ca323caca253
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192390
+  packageName: Wisp GUI
+  packageVersion: 1.6.7
+  assetPath: Assets/WispGUI/WispGUI/Assets/Shaders/Skeuomorphism/Glassmorphism (MLGB+LD+DS).shader
+  uploadId: 522865

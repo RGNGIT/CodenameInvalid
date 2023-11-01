@@ -1,0 +1,9 @@
+WispGUI 1.1
+===========
+
+- Smart component creator : just press Control + Space.
+- 5 New GUI Shaders to achieve a Glass, Frosted Glass and Glassmorphism Effects.
+- 2 New GUI Shaders to generate linear and radial gradients.
+- Live style update in playmode for the component selected in hierarchy.
+- 1 New style : Minimaliste.
+- New style parameters : Horizontal and Vertical padding.
