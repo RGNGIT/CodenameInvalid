@@ -93,8 +93,8 @@
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispEditBox\WispCalendar\Script\WispCalendar.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\WebAPI\DTO\User.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispEPS\WispEntity.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispAnimation\WispAnimationFloat.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
@@ -137,8 +137,8 @@
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispExtensions4CSharp\WispString.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispHoverMode.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispUtilityComponents\WispAutoSize.cs" />
-    <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTimeLine\Scripts\WispTimeLineEventMark.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Demo\Various Demo Scenes\WispSelectAndFocusDemo.cs" />
+    <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTimeLine\Scripts\WispTimeLineEventMark.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTable\Scripts\WispRow.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
@@ -151,8 +151,8 @@
     <Compile Include="Assets\WispGUI\WispGUI\Demo\Chess Clock App\WispChessClock.cs" />
     <Compile Include="Assets\Themes\Variants\WhiteTheme\WhiteTheme.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTable\Scripts\WispColumn.cs" />
-    <Compile Include="Assets\Scripts\Register\RegisterEvents.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispExtensions4Unity\WispRectTransform.cs" />
+    <Compile Include="Assets\Scripts\Register\RegisterEvents.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Demo\Floating Panel\WispFloatingPanelDemo.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispExtensions4CSharp\WispChar.cs" />
     <Compile Include="Assets\Scripts\Styles\TextColor_2.cs" />
@@ -175,6 +175,7 @@
     <Compile Include="Assets\Scripts\Styles\Common_BackgroundColor.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTextMeshPro\WispTextMeshPro.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\Scripts\VoiceControl\VoiceControl.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispTitleBar\Script\WispTitleBar.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Demo\Various Demo Scenes\WispLineDemo.cs" />
@@ -207,8 +208,8 @@
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispExtensions4Unity\WispColor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Scripts\Workbook\WorkbookEvents.cs" />
-    <Compile Include="Assets\WispGUI\WispGUI\Assets\WispGuiStyle\Script\WispGuiStyle.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispEntityEditor\Script\WispEntityEditorElement.cs" />
+    <Compile Include="Assets\WispGUI\WispGUI\Assets\WispGuiStyle\Script\WispGuiStyle.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Demo\Demo Scene\WispNodeEditorDemo.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispScripts\WispEPS\WispEntityProperty.cs" />
     <Compile Include="Assets\WispGUI\WispGUI\Assets\WispAnimation\WispAnimationFade.cs" />

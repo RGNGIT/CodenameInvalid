@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      neurocomputer-PhotoRoom-PhotoRoom_0: -3329248315743776290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

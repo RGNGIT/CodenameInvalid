@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      119-1196380_masks-theater-masks-clip-art-PhotoRoom_0: -1361333851520428129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
